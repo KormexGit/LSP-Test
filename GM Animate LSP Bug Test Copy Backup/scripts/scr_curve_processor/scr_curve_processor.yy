@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_curve_processor",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_curve_processor",
+  "parent":{
+    "name":"Auto-Curve",
+    "path":"folders/Auto-Curve.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
